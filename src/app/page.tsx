@@ -20,6 +20,9 @@ export default function Home() {
         <p className="relative mt-3 text-zinc-400 font-medium tracking-wide">
           Tactical data, setups, and execution drills.
         </p>
+        <p className="relative mt-2 text-sm text-zinc-500 font-bold uppercase tracking-widest">
+          Created by <span className="text-emerald-400">notz</span>
+        </p>
       </header>
 
       {/* Navigation Tabs */}
@@ -120,6 +123,56 @@ export default function Home() {
                               {cellValue}
                             </td>
                           ))}
+                        </tr>
+                      );
+                    })}
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          );
+        })}
+      </main>
+
+      <style jsx global>{`
+        .custom-scrollbar::-webkit-scrollbar {
+          height: 8px;
+          width: 8px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-track {
+          background: rgba(24, 24, 27, 0.5);
+          border-radius: 4px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-thumb {
+          background: rgba(82, 82, 91, 0.5);
+          border-radius: 4px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+          background: rgba(113, 113, 122, 0.8);
+        }
+      `}</style>
+    </div>
+  );
+}
+ 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+                                    </svg>
+                                    <span>{text}</span>
+                                  </a>
+                                </td>
+                              );
+                            }
+
+                            return (
+                              <td
+                                key={cellIdx}
+                                className={`p-4 text-sm font-medium ${
+                                  cellValue !== "" ? "text-zinc-300" : "text-zinc-600"
+                                }`}
+                              >
+                                {cellValue}
+                              </td>
+                            );
+                          })}
                         </tr>
                       );
                     })}
