@@ -363,238 +363,179 @@
   ],
   "1.Starter Combos": [
     {
-      "Cammy's Beginner Combos and OKI": "",
-      "Unnamed: 1": "",
-      "Unnamed: 2": "",
-      "Unnamed: 3": "",
-      "Unnamed: 4": "",
-      "Unnamed: 5": "",
-      "Unnamed: 6": ""
+      "Combo": "Light Starter",
+      "Oki": "",
+      "Notes": ""
     },
     {
-      "Cammy's Beginner Combos and OKI": "Combo",
-      "Unnamed: 1": "Oki",
-      "Unnamed: 2": "Notes",
-      "Unnamed: 3": "",
-      "Unnamed: 4": "Combo",
-      "Unnamed: 5": "Oki",
-      "Unnamed: 6": "Notes"
+      "Combo": "3 Light String xx M Arrow",
+      "Oki": "dash, walk, stLP xx 3",
+      "Notes": "Oki"
     },
     {
-      "Cammy's Beginner Combos and OKI": "Light Starter",
-      "Unnamed: 1": "",
-      "Unnamed: 2": "",
-      "Unnamed: 3": "",
-      "Unnamed: 4": "Punish Counter crHP Starter (Blocked Reversal)",
-      "Unnamed: 5": "",
-      "Unnamed: 6": ""
+      "Combo": "",
+      "Oki": "dash, walk, Throw",
+      "Notes": ""
     },
     {
-      "Cammy's Beginner Combos and OKI": "3 Light String xx M Arrow",
-      "Unnamed: 1": "dash, walk, stLP xx 3",
-      "Unnamed: 2": "Oki",
-      "Unnamed: 3": "",
-      "Unnamed: 4": "crHP, stHP xx H Arrow",
-      "Unnamed: 5": "dash, walk, stLP xx 3",
-      "Unnamed: 6": "Oki"
+      "Combo": "",
+      "Oki": "dash, walk, Shimmy",
+      "Notes": ""
     },
     {
-      "Cammy's Beginner Combos and OKI": "",
-      "Unnamed: 1": "dash, walk, Throw",
-      "Unnamed: 2": "",
-      "Unnamed: 3": "",
-      "Unnamed: 4": "",
-      "Unnamed: 5": "dash, walk, Throw",
-      "Unnamed: 6": ""
+      "Combo": "crMK/crMP/stHP Starter",
+      "Oki": "",
+      "Notes": ""
     },
     {
-      "Cammy's Beginner Combos and OKI": "",
-      "Unnamed: 1": "dash, walk, Shimmy",
-      "Unnamed: 2": "",
-      "Unnamed: 3": "",
-      "Unnamed: 4": "",
-      "Unnamed: 5": "dash, walk, Shimmy",
-      "Unnamed: 6": ""
+      "Combo": "crMK xx DRC, stMP, crHP, crMP xx H Arrow",
+      "Oki": "dash, walk, stLP xx 3",
+      "Notes": "Oki"
     },
     {
-      "Cammy's Beginner Combos and OKI": "crMK/crMP/stHP Starter",
-      "Unnamed: 1": "",
-      "Unnamed: 2": "",
-      "Unnamed: 3": "",
-      "Unnamed: 4": "crHP, bHK, L Knuckle, SA1/SA3",
-      "Unnamed: 5": "",
-      "Unnamed: 6": "Damage"
+      "Combo": "",
+      "Oki": "dash, walk, Throw",
+      "Notes": ""
     },
     {
-      "Cammy's Beginner Combos and OKI": "crMK xx DRC, stMP, crHP, crMP xx H Arrow",
-      "Unnamed: 1": "dash, walk, stLP xx 3",
-      "Unnamed: 2": "Oki",
-      "Unnamed: 3": "",
-      "Unnamed: 4": "crHP, stHP xx DRC crHP, stHP xx DRC, crHP, stHP xx L Knuckle xx Level 3",
-      "Unnamed: 5": "",
-      "Unnamed: 6": "Damage"
+      "Combo": "",
+      "Oki": "dash, walk, Shimmy",
+      "Notes": ""
     },
     {
-      "Cammy's Beginner Combos and OKI": "",
-      "Unnamed: 1": "dash, walk, Throw",
-      "Unnamed: 2": "",
-      "Unnamed: 3": "",
-      "Unnamed: 4": "Stun",
-      "Unnamed: 5": "",
-      "Unnamed: 6": ""
+      "Combo": "crMK xx DRC, stMP, crHP, crMP xx DRC, crHP, stHP xx L Knuckle xx Level 3",
+      "Oki": "",
+      "Notes": "Damage"
     },
     {
-      "Cammy's Beginner Combos and OKI": "",
-      "Unnamed: 1": "dash, walk, Shimmy",
-      "Unnamed: 2": "",
-      "Unnamed: 3": "",
-      "Unnamed: 4": "Charged Hooligan Overhead, stHP > HK xx L Arrow, M DP",
-      "Unnamed: 5": "dash, walk, stLP xx 3",
-      "Unnamed: 6": "Oki"
+      "Combo": "crHP Starter",
+      "Oki": "",
+      "Notes": ""
     },
     {
-      "Cammy's Beginner Combos and OKI": "crMK xx DRC, stMP, crHP, crMP xx DRC, crHP, stHP xx L Knuckle xx Level 3",
-      "Unnamed: 1": "",
-      "Unnamed: 2": "Damage",
-      "Unnamed: 3": "",
-      "Unnamed: 4": "",
-      "Unnamed: 5": "dash, walk, Throw",
-      "Unnamed: 6": ""
+      "Combo": "crHP, crMP xx H Arrow",
+      "Oki": "dash, walk, stLP xx 3",
+      "Notes": "Oki"
     },
     {
-      "Cammy's Beginner Combos and OKI": "crHP Starter",
-      "Unnamed: 1": "",
-      "Unnamed: 2": "",
-      "Unnamed: 3": "",
-      "Unnamed: 4": "",
-      "Unnamed: 5": "dash, walk, Shimmy",
-      "Unnamed: 6": ""
+      "Combo": "",
+      "Oki": "dash, walk, Throw",
+      "Notes": ""
     },
     {
-      "Cammy's Beginner Combos and OKI": "crHP, crMP xx H Arrow",
-      "Unnamed: 1": "dash, walk, stLP xx 3",
-      "Unnamed: 2": "Oki",
-      "Unnamed: 3": "",
-      "Unnamed: 4": "Charged Hooligan, down K, stHP xx DRC, crHP, stHP xx DRC, crHP, stHP xx M Knuckle xx Lv 3",
-      "Unnamed: 5": "",
-      "Unnamed: 6": "Damage"
+      "Combo": "",
+      "Oki": "dash, walk, Shimmy",
+      "Notes": ""
     },
     {
-      "Cammy's Beginner Combos and OKI": "",
-      "Unnamed: 1": "dash, walk, Throw",
-      "Unnamed: 2": "",
-      "Unnamed: 3": "",
-      "Unnamed: 4": "",
-      "Unnamed: 5": "",
-      "Unnamed: 6": ""
+      "Combo": "crHP, crMP xx DRC crHP, stHP xx DRC, crHP, stHP xx L Knuckle xx Level 3",
+      "Oki": "",
+      "Notes": "Damage"
     },
     {
-      "Cammy's Beginner Combos and OKI": "",
-      "Unnamed: 1": "dash, walk, Shimmy",
-      "Unnamed: 2": "",
-      "Unnamed: 3": "",
-      "Unnamed: 4": "",
-      "Unnamed: 5": "",
-      "Unnamed: 6": ""
+      "Combo": "Drive Impact Wallsplat ",
+      "Oki": "",
+      "Notes": ""
     },
     {
-      "Cammy's Beginner Combos and OKI": "crHP, crMP xx DRC crHP, stHP xx DRC, crHP, stHP xx L Knuckle xx Level 3",
-      "Unnamed: 1": "",
-      "Unnamed: 2": "Damage",
-      "Unnamed: 3": "",
-      "Unnamed: 4": "",
-      "Unnamed: 5": "",
-      "Unnamed: 6": ""
+      "Combo": "stHP, L Arrow, H DP",
+      "Oki": "dash, stLP xx 3",
+      "Notes": "Oki"
     },
     {
-      "Cammy's Beginner Combos and OKI": "Drive Impact Wallsplat ",
-      "Unnamed: 1": "",
-      "Unnamed: 2": "",
-      "Unnamed: 3": "",
-      "Unnamed: 4": "",
-      "Unnamed: 5": "",
-      "Unnamed: 6": ""
+      "Combo": "",
+      "Oki": "dash, throw",
+      "Notes": ""
     },
     {
-      "Cammy's Beginner Combos and OKI": "stHP, L Arrow, H DP",
-      "Unnamed: 1": "dash, stLP xx 3",
-      "Unnamed: 2": "Oki",
-      "Unnamed: 3": "",
-      "Unnamed: 4": "",
-      "Unnamed: 5": "",
-      "Unnamed: 6": ""
+      "Combo": "",
+      "Oki": "walk, shimmy",
+      "Notes": ""
     },
     {
-      "Cammy's Beginner Combos and OKI": "",
-      "Unnamed: 1": "dash, throw",
-      "Unnamed: 2": "",
-      "Unnamed: 3": "",
-      "Unnamed: 4": "",
-      "Unnamed: 5": "",
-      "Unnamed: 6": ""
+      "Combo": "stHP xx L Knuckle, SA3",
+      "Oki": "",
+      "Notes": "Damage"
     },
     {
-      "Cammy's Beginner Combos and OKI": "",
-      "Unnamed: 1": "walk, shimmy",
-      "Unnamed: 2": "",
-      "Unnamed: 3": "",
-      "Unnamed: 4": "",
-      "Unnamed: 5": "",
-      "Unnamed: 6": ""
+      "Combo": "Punish Counter DI",
+      "Oki": "",
+      "Notes": ""
     },
     {
-      "Cammy's Beginner Combos and OKI": "stHP xx L Knuckle, SA3",
-      "Unnamed: 1": "",
-      "Unnamed: 2": "Damage",
-      "Unnamed: 3": "",
-      "Unnamed: 4": "",
-      "Unnamed: 5": "",
-      "Unnamed: 6": ""
+      "Combo": "crHP, crMP xx H Arrow",
+      "Oki": "dash, walk, stLP xx 3",
+      "Notes": "Oki"
     },
     {
-      "Cammy's Beginner Combos and OKI": "Punish Counter DI",
-      "Unnamed: 1": "",
-      "Unnamed: 2": "",
-      "Unnamed: 3": "",
-      "Unnamed: 4": "",
-      "Unnamed: 5": "",
-      "Unnamed: 6": ""
+      "Combo": "",
+      "Oki": "dash, walk, Throw",
+      "Notes": ""
     },
     {
-      "Cammy's Beginner Combos and OKI": "crHP, crMP xx H Arrow",
-      "Unnamed: 1": "dash, walk, stLP xx 3",
-      "Unnamed: 2": "Oki",
-      "Unnamed: 3": "",
-      "Unnamed: 4": "",
-      "Unnamed: 5": "",
-      "Unnamed: 6": ""
+      "Combo": "",
+      "Oki": "dash, walk, Shimmy",
+      "Notes": ""
     },
     {
-      "Cammy's Beginner Combos and OKI": "",
-      "Unnamed: 1": "dash, walk, Throw",
-      "Unnamed: 2": "",
-      "Unnamed: 3": "",
-      "Unnamed: 4": "",
-      "Unnamed: 5": "",
-      "Unnamed: 6": ""
+      "Combo": "crHP, crMP xx DRC crHP, stHP xx DRC, crHP, stHP xx L Knuckle xx Level 3",
+      "Oki": "",
+      "Notes": "Damage"
     },
     {
-      "Cammy's Beginner Combos and OKI": "",
-      "Unnamed: 1": "dash, walk, Shimmy",
-      "Unnamed: 2": "",
-      "Unnamed: 3": "",
-      "Unnamed: 4": "",
-      "Unnamed: 5": "",
-      "Unnamed: 6": ""
+      "Combo": "Punish Counter crHP Starter (Blocked Reversal)",
+      "Oki": "",
+      "Notes": ""
     },
     {
-      "Cammy's Beginner Combos and OKI": "crHP, crMP xx DRC crHP, stHP xx DRC, crHP, stHP xx L Knuckle xx Level 3",
-      "Unnamed: 1": "",
-      "Unnamed: 2": "Damage",
-      "Unnamed: 3": "",
-      "Unnamed: 4": "",
-      "Unnamed: 5": "",
-      "Unnamed: 6": ""
+      "Combo": "crHP, stHP xx H Arrow",
+      "Oki": "dash, walk, stLP xx 3",
+      "Notes": "Oki"
+    },
+    {
+      "Combo": "",
+      "Oki": "dash, walk, Throw",
+      "Notes": ""
+    },
+    {
+      "Combo": "",
+      "Oki": "dash, walk, Shimmy",
+      "Notes": ""
+    },
+    {
+      "Combo": "crHP, bHK, L Knuckle, SA1/SA3",
+      "Oki": "",
+      "Notes": "Damage"
+    },
+    {
+      "Combo": "crHP, stHP xx DRC crHP, stHP xx DRC, crHP, stHP xx L Knuckle xx Level 3",
+      "Oki": "",
+      "Notes": "Damage"
+    },
+    {
+      "Combo": "Stun",
+      "Oki": "",
+      "Notes": ""
+    },
+    {
+      "Combo": "Charged Hooligan Overhead, stHP > HK xx L Arrow, M DP",
+      "Oki": "dash, walk, stLP xx 3",
+      "Notes": "Oki"
+    },
+    {
+      "Combo": "",
+      "Oki": "dash, walk, Throw",
+      "Notes": ""
+    },
+    {
+      "Combo": "",
+      "Oki": "dash, walk, Shimmy",
+      "Notes": ""
+    },
+    {
+      "Combo": "Charged Hooligan, down K, stHP xx DRC, crHP, stHP xx DRC, crHP, stHP xx M Knuckle xx Lv 3",
+      "Oki": "",
+      "Notes": "Damage"
     }
   ],
   "2.Common Scenario Combos": [
@@ -905,7 +846,7 @@
       "Unnamed: 1": 4560,
       "Unnamed: 2": "",
       "Unnamed: 3": "bHK, L Knuckle, Lv 3",
-      "Unnamed: 4": 4560.0,
+      "Unnamed: 4": 4560,
       "Unnamed: 5": "",
       "Unnamed: 6": "Charged Hooligan, down K, stHP xx M Knuckle, Lv 3",
       "Unnamed: 7": "4200/4800"
@@ -915,7 +856,7 @@
       "Unnamed: 1": 4560,
       "Unnamed: 2": "",
       "Unnamed: 3": "bHK, L Arrow, Lv 3",
-      "Unnamed: 4": 4560.0,
+      "Unnamed: 4": 4560,
       "Unnamed: 5": "",
       "Unnamed: 6": "Charged Hooligan, down K, stHP xx [DP] xx Lv 3",
       "Unnamed: 7": "4380/4980"
@@ -945,7 +886,7 @@
       "Unnamed: 1": 5080,
       "Unnamed: 2": "",
       "Unnamed: 3": "crHP, bHK, L Knuckle, Lv 3",
-      "Unnamed: 4": 5080.0,
+      "Unnamed: 4": 5080,
       "Unnamed: 5": "",
       "Unnamed: 6": "Charged Hooligan, down K, stHP xx DRC, crHP, stHP xx M Knuckle xx Lv 3",
       "Unnamed: 7": "4685/5285"
@@ -955,7 +896,7 @@
       "Unnamed: 1": 4960,
       "Unnamed: 2": "",
       "Unnamed: 3": "crHP, bHK, L Arrow, Lv 3",
-      "Unnamed: 4": 5080.0,
+      "Unnamed: 4": 5080,
       "Unnamed: 5": "",
       "Unnamed: 6": "Charged Hooligan, down K, stHP xx DRC, bHK, bHK xx [DP] xx Lv 3",
       "Unnamed: 7": "4838/5438"
@@ -985,7 +926,7 @@
       "Unnamed: 1": 4905,
       "Unnamed: 2": "",
       "Unnamed: 3": "crHP, crMP xx DRC, crHP, stHP xx M Knuckle xx SA3",
-      "Unnamed: 4": 4905.0,
+      "Unnamed: 4": 4905,
       "Unnamed: 5": "",
       "Unnamed: 6": "Charged Hooligan, down K, stHP xx DRC, crHP, stHP xx DRC, crHP, stHP xx M Knuckle xx Lv 3",
       "Unnamed: 7": "4957/5587"
@@ -995,7 +936,7 @@
       "Unnamed: 1": 5007,
       "Unnamed: 2": "",
       "Unnamed: 3": "crHP, crMP xx DRC, bHK, bHK xx [DP] xx SA3        ",
-      "Unnamed: 4": 5058.0,
+      "Unnamed: 4": 5058,
       "Unnamed: 5": "",
       "Unnamed: 6": "Charged Hooligan, down K, stHP xx DRC, crHP, stHP xx DRC, bHK, bHK xx [DP] xx Lv 3",
       "Unnamed: 7": "5072/5672"
@@ -1025,7 +966,7 @@
       "Unnamed: 1": 5207,
       "Unnamed: 2": "",
       "Unnamed: 3": "crHP, crMP xx DRC, crHP, stHP xx DRC, crHP, stHP xx M Knuckle xx SA3",
-      "Unnamed: 4": 5207.0,
+      "Unnamed: 4": 5207,
       "Unnamed: 5": "",
       "Unnamed: 6": "Charged Hooligan, down K, stHP xx DRC, bHK, DR stHP, L Knuckle, DR stHP xx [DP] xx Lv 3",
       "Unnamed: 7": "5123/5723"
@@ -1035,7 +976,7 @@
       "Unnamed: 1": 5258,
       "Unnamed: 2": "",
       "Unnamed: 3": "crHP, crMP xx DRC, crHP, stHP xx DRC, bHK, bHK xx [DP] xx SA3",
-      "Unnamed: 4": 5292.0,
+      "Unnamed: 4": 5292,
       "Unnamed: 5": "",
       "Unnamed: 6": "",
       "Unnamed: 7": ""
@@ -1065,7 +1006,7 @@
       "Unnamed: 1": 4996,
       "Unnamed: 2": "",
       "Unnamed: 3": "crHP, stHP xx DRC, crHP, stHP xx M Knuckle xx Lv 3",
-      "Unnamed: 4": 4996.0,
+      "Unnamed: 4": 4996,
       "Unnamed: 5": "",
       "Unnamed: 6": "",
       "Unnamed: 7": ""
@@ -1075,7 +1016,7 @@
       "Unnamed: 1": 5149,
       "Unnamed: 2": "",
       "Unnamed: 3": "crHP, stHP xx DRC, bHK, bHK xx [DP] xx SA3  ",
-      "Unnamed: 4": 5217.0,
+      "Unnamed: 4": 5217,
       "Unnamed: 5": "",
       "Unnamed: 6": "",
       "Unnamed: 7": ""
@@ -1105,7 +1046,7 @@
       "Unnamed: 1": 5553,
       "Unnamed: 2": "",
       "Unnamed: 3": "crHP, stHP xx DRC, crHP, stHP xx DRC, crHP, stHP xx M Knuckle xx SA3",
-      "Unnamed: 4": 5553.0,
+      "Unnamed: 4": 5553,
       "Unnamed: 5": "",
       "Unnamed: 6": "",
       "Unnamed: 7": ""
@@ -1115,7 +1056,7 @@
       "Unnamed: 1": 5655,
       "Unnamed: 2": "",
       "Unnamed: 3": "crHP, stHP xx DRC, crHP, stHP xx DRC, bHK, bHK, [DP]. SA3",
-      "Unnamed: 4": 5706.0,
+      "Unnamed: 4": 5706,
       "Unnamed: 5": "",
       "Unnamed: 6": "",
       "Unnamed: 7": ""
@@ -1145,7 +1086,7 @@
       "Unnamed: 1": 5774,
       "Unnamed: 2": "",
       "Unnamed: 3": "crHP, stHP xx DRC, bHK, DR stHP xx L Spin Knuckle, DR stHP xx [DP] xx Lv 3",
-      "Unnamed: 4": 5774.0,
+      "Unnamed: 4": 5774,
       "Unnamed: 5": "",
       "Unnamed: 6": "",
       "Unnamed: 7": ""
@@ -1175,7 +1116,7 @@
       "Unnamed: 1": 5872,
       "Unnamed: 2": "",
       "Unnamed: 3": "crHP, stHP xx DRC, bHK, DR stHP xx L Knuckle, DR stHP xx DRC stHP xx [DP] xx Lv 3",
-      "Unnamed: 4": 5947.0,
+      "Unnamed: 4": 5947,
       "Unnamed: 5": "",
       "Unnamed: 6": "",
       "Unnamed: 7": ""
@@ -1861,9 +1802,9 @@
     {
       "Knockdown": "Medium Arrow",
       "Position": "Midscreen",
-      "KDA": 26.0,
+      "KDA": 26,
       "OKI": "dash, stMP ",
-      "Frame Adv. On Block": 2.0,
+      "Frame Adv. On Block": 2,
       "Frame Adv. On Hit": 9,
       "Drive Reversal Safe": "Yes",
       "Shimmy - Possible before pressing the meaty?": "Yes",
@@ -1872,9 +1813,9 @@
     {
       "Knockdown": "Medium Arrow",
       "Position": "Midscreen",
-      "KDA": 26.0,
+      "KDA": 26,
       "OKI": "dash, crHP",
-      "Frame Adv. On Block": 1.0,
+      "Frame Adv. On Block": 1,
       "Frame Adv. On Hit": 7,
       "Drive Reversal Safe": "No",
       "Shimmy - Possible before pressing the meaty?": "Yes",
@@ -1883,7 +1824,7 @@
     {
       "Knockdown": "Medium Arrow",
       "Position": "Midscreen",
-      "KDA": 26.0,
+      "KDA": 26,
       "OKI": "dash, walk, stLP/crLK string",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -1894,7 +1835,7 @@
     {
       "Knockdown": "Medium Arrow",
       "Position": "Midscreen",
-      "KDA": 26.0,
+      "KDA": 26,
       "OKI": "dash, walk, Throw",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -1905,9 +1846,9 @@
     {
       "Knockdown": "Medium Arrow",
       "Position": "Midscreen",
-      "KDA": 26.0,
+      "KDA": 26,
       "OKI": "Heavy DiveKick",
-      "Frame Adv. On Block": 1.0,
+      "Frame Adv. On Block": 1,
       "Frame Adv. On Hit": 7,
       "Drive Reversal Safe": "No",
       "Shimmy - Possible before pressing the meaty?": "Yes",
@@ -1927,7 +1868,7 @@
     {
       "Knockdown": "Medium Arrow",
       "Position": "Corner",
-      "KDA": 26.0,
+      "KDA": 26,
       "OKI": "stMP (FrameKill), Throw",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -1938,7 +1879,7 @@
     {
       "Knockdown": "Medium Arrow",
       "Position": "Corner",
-      "KDA": 26.0,
+      "KDA": 26,
       "OKI": "stMP (FrameKill), stLP String",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -1949,9 +1890,9 @@
     {
       "Knockdown": "Medium Arrow",
       "Position": "Corner",
-      "KDA": 26.0,
+      "KDA": 26,
       "OKI": "crLK (FrameKill), crHP",
-      "Frame Adv. On Block": 4.0,
+      "Frame Adv. On Block": 4,
       "Frame Adv. On Hit": 10,
       "Drive Reversal Safe": "Yes",
       "Shimmy - Possible before pressing the meaty?": "Yes",
@@ -1960,7 +1901,7 @@
     {
       "Knockdown": "Medium Arrow",
       "Position": "Corner",
-      "KDA": 27.0,
+      "KDA": 27,
       "OKI": "crLK, crLP (Framekill), stLP/Throw",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": 6,
@@ -1971,9 +1912,9 @@
     {
       "Knockdown": "Medium Arrow",
       "Position": "Corner",
-      "KDA": 27.0,
+      "KDA": 27,
       "OKI": "stLK (FrameKill), crHP",
-      "Frame Adv. On Block": 2.0,
+      "Frame Adv. On Block": 2,
       "Frame Adv. On Hit": 8,
       "Drive Reversal Safe": "No",
       "Shimmy - Possible before pressing the meaty?": "Yes",
@@ -1993,7 +1934,7 @@
     {
       "Knockdown": "Heavy Arrow",
       "Position": "Midscreen",
-      "KDA": 29.0,
+      "KDA": 29,
       "OKI": "dash, walk, stLP/crLK string",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -2004,9 +1945,9 @@
     {
       "Knockdown": "Heavy Arrow",
       "Position": "Midscreen",
-      "KDA": 29.0,
+      "KDA": 29,
       "OKI": "dash, crHP",
-      "Frame Adv. On Block": 3.0,
+      "Frame Adv. On Block": 3,
       "Frame Adv. On Hit": 9,
       "Drive Reversal Safe": "Yes",
       "Shimmy - Possible before pressing the meaty?": "Yes",
@@ -2015,9 +1956,9 @@
     {
       "Knockdown": "Heavy Arrow",
       "Position": "Midscreen",
-      "KDA": 29.0,
+      "KDA": 29,
       "OKI": "Medium Divekick",
-      "Frame Adv. On Block": 1.0,
+      "Frame Adv. On Block": 1,
       "Frame Adv. On Hit": 7,
       "Drive Reversal Safe": "No",
       "Shimmy - Possible before pressing the meaty?": "Yes",
@@ -2026,7 +1967,7 @@
     {
       "Knockdown": "Heavy Arrow",
       "Position": "Midscreen",
-      "KDA": 29.0,
+      "KDA": 29,
       "OKI": "dash, walk, Throw",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -2048,9 +1989,9 @@
     {
       "Knockdown": "Heavy Arrow",
       "Position": "Corner",
-      "KDA": 29.0,
+      "KDA": 29,
       "OKI": "dash, crHP",
-      "Frame Adv. On Block": 3.0,
+      "Frame Adv. On Block": 3,
       "Frame Adv. On Hit": 9,
       "Drive Reversal Safe": "Yes",
       "Shimmy - Possible before pressing the meaty?": "Yes",
@@ -2059,9 +2000,9 @@
     {
       "Knockdown": "Heavy Arrow",
       "Position": "Corner",
-      "KDA": 29.0,
+      "KDA": 29,
       "OKI": "stLK (Framekill), crHP",
-      "Frame Adv. On Block": 4.0,
+      "Frame Adv. On Block": 4,
       "Frame Adv. On Hit": 10,
       "Drive Reversal Safe": "Yes",
       "Shimmy - Possible before pressing the meaty?": "Yes",
@@ -2070,7 +2011,7 @@
     {
       "Knockdown": "Heavy Arrow",
       "Position": "Corner",
-      "KDA": 29.0,
+      "KDA": 29,
       "OKI": "dash, walk, Throw",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -2081,9 +2022,9 @@
     {
       "Knockdown": "Heavy Arrow",
       "Position": "Corner",
-      "KDA": 29.0,
+      "KDA": 29,
       "OKI": "Light Divekick",
-      "Frame Adv. On Block": 1.0,
+      "Frame Adv. On Block": 1,
       "Frame Adv. On Hit": 7,
       "Drive Reversal Safe": "No",
       "Shimmy - Possible before pressing the meaty?": "No",
@@ -2103,9 +2044,9 @@
     {
       "Knockdown": "Forward Throw",
       "Position": "Midscreen",
-      "KDA": 17.0,
+      "KDA": 17,
       "OKI": "DR (Not safe vs DP), stHP",
-      "Frame Adv. On Block": 1.0,
+      "Frame Adv. On Block": 1,
       "Frame Adv. On Hit": 6,
       "Drive Reversal Safe": "No",
       "Shimmy - Possible before pressing the meaty?": "No",
@@ -2114,9 +2055,9 @@
     {
       "Knockdown": "Forward Throw",
       "Position": "Midscreen",
-      "KDA": 17.0,
+      "KDA": 17,
       "OKI": "Light Arrow",
-      "Frame Adv. On Block": -1.0,
+      "Frame Adv. On Block": -1,
       "Frame Adv. On Hit": "47f KD",
       "Drive Reversal Safe": "No",
       "Shimmy - Possible before pressing the meaty?": "",
@@ -2136,7 +2077,7 @@
     {
       "Knockdown": "Forward Throw",
       "Position": "Corner",
-      "KDA": 17.0,
+      "KDA": 17,
       "OKI": "walk, Throw",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -2147,9 +2088,9 @@
     {
       "Knockdown": "Forward Throw",
       "Position": "Corner",
-      "KDA": 17.0,
+      "KDA": 17,
       "OKI": "microwalk, stMP",
-      "Frame Adv. On Block": 2.0,
+      "Frame Adv. On Block": 2,
       "Frame Adv. On Hit": 9,
       "Drive Reversal Safe": "Yes",
       "Shimmy - Possible before pressing the meaty?": "Yes",
@@ -2158,7 +2099,7 @@
     {
       "Knockdown": "Forward Throw",
       "Position": "Corner",
-      "KDA": 17.0,
+      "KDA": 17,
       "OKI": "walk, stLP, stLP",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -2169,9 +2110,9 @@
     {
       "Knockdown": "Forward Throw",
       "Position": "Corner",
-      "KDA": 17.0,
+      "KDA": 17,
       "OKI": "DR, crLK",
-      "Frame Adv. On Block": 4.0,
+      "Frame Adv. On Block": 4,
       "Frame Adv. On Hit": 9,
       "Drive Reversal Safe": "Yes",
       "Shimmy - Possible before pressing the meaty?": "No",
@@ -2180,9 +2121,9 @@
     {
       "Knockdown": "Forward Throw",
       "Position": "Corner",
-      "KDA": 17.0,
+      "KDA": 17,
       "OKI": "DR, stMP",
-      "Frame Adv. On Block": 4.0,
+      "Frame Adv. On Block": 4,
       "Frame Adv. On Hit": 11,
       "Drive Reversal Safe": "Yes",
       "Shimmy - Possible before pressing the meaty?": "No",
@@ -2191,9 +2132,9 @@
     {
       "Knockdown": "Forward Throw",
       "Position": "Corner",
-      "KDA": 17.0,
+      "KDA": 17,
       "OKI": "DR. crHP",
-      "Frame Adv. On Block": 5.0,
+      "Frame Adv. On Block": 5,
       "Frame Adv. On Hit": 11,
       "Drive Reversal Safe": "No",
       "Shimmy - Possible before pressing the meaty?": "No",
@@ -2202,9 +2143,9 @@
     {
       "Knockdown": "Forward Throw",
       "Position": "Corner",
-      "KDA": 17.0,
+      "KDA": 17,
       "OKI": "Instasnt Light Divekick",
-      "Frame Adv. On Block": 5.0,
+      "Frame Adv. On Block": 5,
       "Frame Adv. On Hit": 11,
       "Drive Reversal Safe": "No",
       "Shimmy - Possible before pressing the meaty?": "Yes",
@@ -2224,7 +2165,7 @@
     {
       "Knockdown": "Back Throw",
       "Position": "Midscreen",
-      "KDA": 14.0,
+      "KDA": 14,
       "OKI": "Nothing",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -2246,9 +2187,9 @@
     {
       "Knockdown": "Back Throw",
       "Position": "Corner",
-      "KDA": 14.0,
+      "KDA": 14,
       "OKI": "DR stMP",
-      "Frame Adv. On Block": 4.0,
+      "Frame Adv. On Block": 4,
       "Frame Adv. On Hit": 11,
       "Drive Reversal Safe": "No",
       "Shimmy - Possible before pressing the meaty?": "",
@@ -2279,9 +2220,9 @@
     {
       "Knockdown": "stHP > HK xx L Arrow",
       "Position": "Corner",
-      "KDA": 39.0,
+      "KDA": 39,
       "OKI": "Heavy Hooligan, Overhead",
-      "Frame Adv. On Block": 0.0,
+      "Frame Adv. On Block": 0,
       "Frame Adv. On Hit": 10,
       "Drive Reversal Safe": "No",
       "Shimmy - Possible before pressing the meaty?": "",
@@ -2290,7 +2231,7 @@
     {
       "Knockdown": "stHP > HK xx L Arrow",
       "Position": "Corner",
-      "KDA": 39.0,
+      "KDA": 39,
       "OKI": "Heavy Hooligan, Grab",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -2301,9 +2242,9 @@
     {
       "Knockdown": "stHP > HK xx L Arrow",
       "Position": "Corner",
-      "KDA": 39.0,
+      "KDA": 39,
       "OKI": "Heavy Hooligan, Fastfall",
-      "Frame Adv. On Block": -1.0,
+      "Frame Adv. On Block": -1,
       "Frame Adv. On Hit": "",
       "Drive Reversal Safe": "Yes",
       "Shimmy - Possible before pressing the meaty?": "",
@@ -2312,9 +2253,9 @@
     {
       "Knockdown": "stHP > HK xx L Arrow",
       "Position": "Corner",
-      "KDA": 39.0,
+      "KDA": 39,
       "OKI": "crLP (FrameKill), OD Knuckle",
-      "Frame Adv. On Block": -2.0,
+      "Frame Adv. On Block": -2,
       "Frame Adv. On Hit": 7,
       "Drive Reversal Safe": "No",
       "Shimmy - Possible before pressing the meaty?": "",
@@ -2323,7 +2264,7 @@
     {
       "Knockdown": "stHP > HK xx M Arrow",
       "Position": "Corner",
-      "KDA": 36.0,
+      "KDA": 36,
       "OKI": "Heavy Hooligan, Grab",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -2334,9 +2275,9 @@
     {
       "Knockdown": "stHP > HK xx M Arrow",
       "Position": "Corner",
-      "KDA": 36.0,
+      "KDA": 36,
       "OKI": "Heavy Hooligan, Overhead",
-      "Frame Adv. On Block": -2.0,
+      "Frame Adv. On Block": -2,
       "Frame Adv. On Hit": "8f",
       "Drive Reversal Safe": "No",
       "Shimmy - Possible before pressing the meaty?": "",
@@ -2345,9 +2286,9 @@
     {
       "Knockdown": "stHP > HK xx M Arrow",
       "Position": "Corner",
-      "KDA": 36.0,
+      "KDA": 36,
       "OKI": "Heavy Hooligan, Fastfall",
-      "Frame Adv. On Block": -4.0,
+      "Frame Adv. On Block": -4,
       "Frame Adv. On Hit": "",
       "Drive Reversal Safe": "Yes",
       "Shimmy - Possible before pressing the meaty?": "",
@@ -2356,9 +2297,9 @@
     {
       "Knockdown": "stHP > HK xx M Arrow",
       "Position": "Corner",
-      "KDA": 36.0,
+      "KDA": 36,
       "OKI": "Heavy Hooligan, Heavy Divekick",
-      "Frame Adv. On Block": 4.0,
+      "Frame Adv. On Block": 4,
       "Frame Adv. On Hit": 10,
       "Drive Reversal Safe": "Yes",
       "Shimmy - Possible before pressing the meaty?": "",
@@ -2378,9 +2319,9 @@
     {
       "Knockdown": "stHP > HK xx OD Divekick, H arrow",
       "Position": "Midscreen / Corner",
-      "KDA": 35.0,
+      "KDA": 35,
       "OKI": "Heavy Hooligan, Heavy Divekick",
-      "Frame Adv. On Block": 1.0,
+      "Frame Adv. On Block": 1,
       "Frame Adv. On Hit": 7,
       "Drive Reversal Safe": "Yes",
       "Shimmy - Possible before pressing the meaty?": "",
@@ -2389,9 +2330,9 @@
     {
       "Knockdown": "stHP > HK xx OD Divekick, H arrow",
       "Position": "Midscreen / Corner",
-      "KDA": 35.0,
+      "KDA": 35,
       "OKI": "Heavy Hooligan, Overhead",
-      "Frame Adv. On Block": -2.0,
+      "Frame Adv. On Block": -2,
       "Frame Adv. On Hit": 8,
       "Drive Reversal Safe": "No",
       "Shimmy - Possible before pressing the meaty?": "",
@@ -2400,7 +2341,7 @@
     {
       "Knockdown": "stHP > HK xx OD Divekick, H arrow",
       "Position": "Midscreen / Corner",
-      "KDA": 35.0,
+      "KDA": 35,
       "OKI": "Heavy Hooligan, Grab",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -2422,9 +2363,9 @@
     {
       "Knockdown": "stHP > HK xx OD Divekick, L Arrow",
       "Position": "Corner",
-      "KDA": 38.0,
+      "KDA": 38,
       "OKI": "Heavy Hooligan, Overhead",
-      "Frame Adv. On Block": -1.0,
+      "Frame Adv. On Block": -1,
       "Frame Adv. On Hit": 9,
       "Drive Reversal Safe": "Yes",
       "Shimmy - Possible before pressing the meaty?": "",
@@ -2433,7 +2374,7 @@
     {
       "Knockdown": "stHP > HK xx OD Divekick, L Arrow",
       "Position": "Corner",
-      "KDA": 38.0,
+      "KDA": 38,
       "OKI": "Heavy Hooligan, Grab",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -2477,7 +2418,7 @@
     {
       "Knockdown": "stHP > HK xx OD Divekick, L Arrow",
       "Position": "Midscreen",
-      "KDA": 38.0,
+      "KDA": 38,
       "OKI": "Dash, Dash, Throw",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -2488,7 +2429,7 @@
     {
       "Knockdown": "stHP > HK xx OD Divekick, L Arrow",
       "Position": "Midscreen",
-      "KDA": 38.0,
+      "KDA": 38,
       "OKI": "Dash, Dash, stLP, stLP",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -2499,9 +2440,9 @@
     {
       "Knockdown": "stHP > HK xx L Arrow, M DP",
       "Position": "Corner",
-      "KDA": 21.0,
+      "KDA": 21,
       "OKI": "crLP (Framekill), stMP",
-      "Frame Adv. On Block": 2.0,
+      "Frame Adv. On Block": 2,
       "Frame Adv. On Hit": 9,
       "Drive Reversal Safe": "Yes",
       "Shimmy - Possible before pressing the meaty?": "Yes",
@@ -2510,7 +2451,7 @@
     {
       "Knockdown": "stHP > HK xx L Arrow, M DP",
       "Position": "Corner",
-      "KDA": 21.0,
+      "KDA": 21,
       "OKI": "dash, Throw",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -2521,7 +2462,7 @@
     {
       "Knockdown": "stHP > HK xx L Arrow, M DP",
       "Position": "Corner",
-      "KDA": 21.0,
+      "KDA": 21,
       "OKI": "dash, stLP/crLK string",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -2532,9 +2473,9 @@
     {
       "Knockdown": "stHP > HK xx L Arrow, M DP",
       "Position": "Corner",
-      "KDA": 21.0,
+      "KDA": 21,
       "OKI": "Walk Forward, crHP",
-      "Frame Adv. On Block": 1.0,
+      "Frame Adv. On Block": 1,
       "Frame Adv. On Hit": 7,
       "Drive Reversal Safe": "No",
       "Shimmy - Possible before pressing the meaty?": "No",
@@ -2554,7 +2495,7 @@
     {
       "Knockdown": "stHP > HK xx M Arrow",
       "Position": "Corner",
-      "KDA": 36.0,
+      "KDA": 36,
       "OKI": "dash, crLP (FrameKill), Throw",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -2576,7 +2517,7 @@
     {
       "Knockdown": "jMP xx M Divekick",
       "Position": "Midscreen",
-      "KDA": 31.0,
+      "KDA": 31,
       "OKI": "dash, walk, stLP/crLK string",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -2587,7 +2528,7 @@
     {
       "Knockdown": "jMP xx M Divekick",
       "Position": "Midscreen",
-      "KDA": 31.0,
+      "KDA": 31,
       "OKI": "dash, walk, Throw",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -2609,9 +2550,9 @@
     {
       "Knockdown": "jMP xx M Divekick",
       "Position": "Corner",
-      "KDA": 28.0,
+      "KDA": 28,
       "OKI": "stLK (Framekill), crHP",
-      "Frame Adv. On Block": 3.0,
+      "Frame Adv. On Block": 3,
       "Frame Adv. On Hit": 9,
       "Drive Reversal Safe": "Yes",
       "Shimmy - Possible before pressing the meaty?": "Yes",
@@ -2620,7 +2561,7 @@
     {
       "Knockdown": "jMP xx M Divekick",
       "Position": "Corner",
-      "KDA": 28.0,
+      "KDA": 28,
       "OKI": "dash, walk, stLP/crLK string",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -2631,7 +2572,7 @@
     {
       "Knockdown": "jMP xx M Divekick",
       "Position": "Corner",
-      "KDA": 28.0,
+      "KDA": 28,
       "OKI": "dash, walk, Throw",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -2653,7 +2594,7 @@
     {
       "Knockdown": "bHK, M Arrow, H DP",
       "Position": "Corner",
-      "KDA": 22.0,
+      "KDA": 22,
       "OKI": "dash, stLP/crLK string",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -2664,7 +2605,7 @@
     {
       "Knockdown": "bHK, M Arrow, H DP",
       "Position": "Corner",
-      "KDA": 22.0,
+      "KDA": 22,
       "OKI": "dash, Throw",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -2675,9 +2616,9 @@
     {
       "Knockdown": "bhk, M Arrow, H DP",
       "Position": "Corner",
-      "KDA": 22.0,
+      "KDA": 22,
       "OKI": "crLK, stMP",
-      "Frame Adv. On Block": 2.0,
+      "Frame Adv. On Block": 2,
       "Frame Adv. On Hit": 9,
       "Drive Reversal Safe": "Yes",
       "Shimmy - Possible before pressing the meaty?": "Yes",
@@ -2686,9 +2627,9 @@
     {
       "Knockdown": "bhk, M Arrow, H DP",
       "Position": "Corner",
-      "KDA": 22.0,
+      "KDA": 22,
       "OKI": "walk, crHP",
-      "Frame Adv. On Block": 1.0,
+      "Frame Adv. On Block": 1,
       "Frame Adv. On Hit": 7,
       "Drive Reversal Safe": "No",
       "Shimmy - Possible before pressing the meaty?": "Yes",
@@ -2697,7 +2638,7 @@
     {
       "Knockdown": "bhk, M Arrow, H DP",
       "Position": "Corner",
-      "KDA": 22.0,
+      "KDA": 22,
       "OKI": "walk, throw",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -2708,7 +2649,7 @@
     {
       "Knockdown": "bhk, M Arrow, H DP",
       "Position": "Corner",
-      "KDA": 22.0,
+      "KDA": 22,
       "OKI": "walk, stLP/crLK string",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -2730,7 +2671,7 @@
     {
       "Knockdown": "SA1",
       "Position": "Midscreen",
-      "KDA": 10.0,
+      "KDA": 10,
       "OKI": "",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -2741,7 +2682,7 @@
     {
       "Knockdown": "SA2",
       "Position": "Midscreen",
-      "KDA": 14.0,
+      "KDA": 14,
       "OKI": "",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -2752,9 +2693,9 @@
     {
       "Knockdown": "SA3",
       "Position": "Midscreen",
-      "KDA": 17.0,
+      "KDA": 17,
       "OKI": "L Arrow",
-      "Frame Adv. On Block": -1.0,
+      "Frame Adv. On Block": -1,
       "Frame Adv. On Hit": "47f KD",
       "Drive Reversal Safe": "No",
       "Shimmy - Possible before pressing the meaty?": "",
@@ -2763,9 +2704,9 @@
     {
       "Knockdown": "SA3",
       "Position": "Midscreen",
-      "KDA": 17.0,
+      "KDA": 17,
       "OKI": "DR stHP",
-      "Frame Adv. On Block": 1.0,
+      "Frame Adv. On Block": 1,
       "Frame Adv. On Hit": 6,
       "Drive Reversal Safe": "No",
       "Shimmy - Possible before pressing the meaty?": "",
@@ -2774,9 +2715,9 @@
     {
       "Knockdown": "CA",
       "Position": "Midscreen",
-      "KDA": 22.0,
+      "KDA": 22,
       "OKI": "DR stHK",
-      "Frame Adv. On Block": 2.0,
+      "Frame Adv. On Block": 2,
       "Frame Adv. On Hit": 7,
       "Drive Reversal Safe": "No",
       "Shimmy - Possible before pressing the meaty?": "",
@@ -2785,9 +2726,9 @@
     {
       "Knockdown": "CA",
       "Position": "Midscreen",
-      "KDA": 22.0,
+      "KDA": 22,
       "OKI": "M Knuckle",
-      "Frame Adv. On Block": -2.0,
+      "Frame Adv. On Block": -2,
       "Frame Adv. On Hit": 3,
       "Drive Reversal Safe": "No",
       "Shimmy - Possible before pressing the meaty?": "",
@@ -2796,9 +2737,9 @@
     {
       "Knockdown": "CA",
       "Position": "Midscreen",
-      "KDA": 22.0,
+      "KDA": 22,
       "OKI": "M Arrow",
-      "Frame Adv. On Block": 0.0,
+      "Frame Adv. On Block": 0,
       "Frame Adv. On Hit": " 48f KD",
       "Drive Reversal Safe": "No",
       "Shimmy - Possible before pressing the meaty?": "",
@@ -2818,9 +2759,9 @@
     {
       "Knockdown": "SA1",
       "Position": "Corner",
-      "KDA": 10.0,
+      "KDA": 10,
       "OKI": "crHP",
-      "Frame Adv. On Block": 2.0,
+      "Frame Adv. On Block": 2,
       "Frame Adv. On Hit": 8,
       "Drive Reversal Safe": "No",
       "Shimmy - Possible before pressing the meaty?": "Yes",
@@ -2829,9 +2770,9 @@
     {
       "Knockdown": "SA1 from Juggle",
       "Position": "Corner",
-      "KDA": 11.0,
+      "KDA": 11,
       "OKI": "crHP",
-      "Frame Adv. On Block": 3.0,
+      "Frame Adv. On Block": 3,
       "Frame Adv. On Hit": 9,
       "Drive Reversal Safe": "Yes",
       "Shimmy - Possible before pressing the meaty?": "Yes",
@@ -2840,7 +2781,7 @@
     {
       "Knockdown": "SA2",
       "Position": "Corner",
-      "KDA": 14.0,
+      "KDA": 14,
       "OKI": "",
       "Frame Adv. On Block": "",
       "Frame Adv. On Hit": "",
@@ -2851,9 +2792,9 @@
     {
       "Knockdown": "SA3",
       "Position": "Corner",
-      "KDA": 17.0,
+      "KDA": 17,
       "OKI": "L Arrow",
-      "Frame Adv. On Block": -1.0,
+      "Frame Adv. On Block": -1,
       "Frame Adv. On Hit": "47f KD",
       "Drive Reversal Safe": "No",
       "Shimmy - Possible before pressing the meaty?": "",
@@ -2862,9 +2803,9 @@
     {
       "Knockdown": "SA3",
       "Position": "Corner",
-      "KDA": 17.0,
+      "KDA": 17,
       "OKI": "DR stHP",
-      "Frame Adv. On Block": 1.0,
+      "Frame Adv. On Block": 1,
       "Frame Adv. On Hit": 6,
       "Drive Reversal Safe": "No",
       "Shimmy - Possible before pressing the meaty?": "",
@@ -2873,9 +2814,9 @@
     {
       "Knockdown": "CA",
       "Position": "Corner",
-      "KDA": 22.0,
+      "KDA": 22,
       "OKI": "DR stHK",
-      "Frame Adv. On Block": 2.0,
+      "Frame Adv. On Block": 2,
       "Frame Adv. On Hit": 7,
       "Drive Reversal Safe": "No",
       "Shimmy - Possible before pressing the meaty?": "",
@@ -2884,9 +2825,9 @@
     {
       "Knockdown": "CA",
       "Position": "Corner",
-      "KDA": 22.0,
+      "KDA": 22,
       "OKI": "M Knuckle",
-      "Frame Adv. On Block": -2.0,
+      "Frame Adv. On Block": -2,
       "Frame Adv. On Hit": 3,
       "Drive Reversal Safe": "No",
       "Shimmy - Possible before pressing the meaty?": "",
@@ -2895,9 +2836,9 @@
     {
       "Knockdown": "CA",
       "Position": "Corner",
-      "KDA": 22.0,
+      "KDA": 22,
       "OKI": "M Arrow",
-      "Frame Adv. On Block": 0.0,
+      "Frame Adv. On Block": 0,
       "Frame Adv. On Hit": "48f KD",
       "Drive Reversal Safe": "No",
       "Shimmy - Possible before pressing the meaty?": "",
@@ -4149,7 +4090,7 @@
   "old shit ": [
     {
       "These combos are not necessarily super optimal, but they are easy to get started with and great \"tournament\" combos.": "3 Light String xx Lv 1",
-      "(please note, all numbers rounded down)\t\t": 2100.0,
+      "(please note, all numbers rounded down)\t\t": 2100,
       "Unnamed: 2": "",
       "Unnamed: 3": "",
       "Unnamed: 4": "",
@@ -4158,7 +4099,7 @@
     },
     {
       "These combos are not necessarily super optimal, but they are easy to get started with and great \"tournament\" combos.": "crMK, DRC, stMP, crHP, crMP, H Arrow",
-      "(please note, all numbers rounded down)\t\t": 2000.0,
+      "(please note, all numbers rounded down)\t\t": 2000,
       "Unnamed: 2": "",
       "Unnamed: 3": "",
       "Unnamed: 4": "",
@@ -4167,7 +4108,7 @@
     },
     {
       "These combos are not necessarily super optimal, but they are easy to get started with and great \"tournament\" combos.": "crMK, DRC, stMP, crHP, crMP, L Knuckle, Lv 3",
-      "(please note, all numbers rounded down)\t\t": 3960.0,
+      "(please note, all numbers rounded down)\t\t": 3960,
       "Unnamed: 2": "",
       "Unnamed: 3": "",
       "Unnamed: 4": "",
@@ -4185,7 +4126,7 @@
     },
     {
       "These combos are not necessarily super optimal, but they are easy to get started with and great \"tournament\" combos.": "(Corner Only) crMK, DRC, stMP, bMP > HK, Partial Charge Arrow, H DP",
-      "(please note, all numbers rounded down)\t\t": 2200.0,
+      "(please note, all numbers rounded down)\t\t": 2200,
       "Unnamed: 2": "",
       "Unnamed: 3": "",
       "Unnamed: 4": "",
@@ -4194,7 +4135,7 @@
     },
     {
       "These combos are not necessarily super optimal, but they are easy to get started with and great \"tournament\" combos.": "^^ Above can replace H DP with Lv 3",
-      "(please note, all numbers rounded down)\t\t": 3800.0,
+      "(please note, all numbers rounded down)\t\t": 3800,
       "Unnamed: 2": "",
       "Unnamed: 3": "",
       "Unnamed: 4": "",
@@ -4203,7 +4144,7 @@
     },
     {
       "These combos are not necessarily super optimal, but they are easy to get started with and great \"tournament\" combos.": "^^ Can also replace H DP with Lv 1",
-      "(please note, all numbers rounded down)\t\t": 2400.0,
+      "(please note, all numbers rounded down)\t\t": 2400,
       "Unnamed: 2": "",
       "Unnamed: 3": "",
       "Unnamed: 4": "",
@@ -4221,7 +4162,7 @@
     },
     {
       "These combos are not necessarily super optimal, but they are easy to get started with and great \"tournament\" combos.": "crHP, crMP, Lv 1",
-      "(please note, all numbers rounded down)\t\t": 2900.0,
+      "(please note, all numbers rounded down)\t\t": 2900,
       "Unnamed: 2": "",
       "Unnamed: 3": "",
       "Unnamed: 4": "",
@@ -4230,7 +4171,7 @@
     },
     {
       "These combos are not necessarily super optimal, but they are easy to get started with and great \"tournament\" combos.": "crHP, crMP, Lv 2",
-      "(please note, all numbers rounded down)\t\t": 3500.0,
+      "(please note, all numbers rounded down)\t\t": 3500,
       "Unnamed: 2": "",
       "Unnamed: 3": "",
       "Unnamed: 4": "",
@@ -4239,7 +4180,7 @@
     },
     {
       "These combos are not necessarily super optimal, but they are easy to get started with and great \"tournament\" combos.": "crHP, crMP, Lv 3 ",
-      "(please note, all numbers rounded down)\t\t": 4500.0,
+      "(please note, all numbers rounded down)\t\t": 4500,
       "Unnamed: 2": "",
       "Unnamed: 3": "",
       "Unnamed: 4": "",
@@ -4257,7 +4198,7 @@
     },
     {
       "These combos are not necessarily super optimal, but they are easy to get started with and great \"tournament\" combos.": "stHP, Lv 1",
-      "(please note, all numbers rounded down)\t\t": 2800.0,
+      "(please note, all numbers rounded down)\t\t": 2800,
       "Unnamed: 2": "",
       "Unnamed: 3": "",
       "Unnamed: 4": "",
@@ -4266,7 +4207,7 @@
     },
     {
       "These combos are not necessarily super optimal, but they are easy to get started with and great \"tournament\" combos.": "stHP, Lv 2",
-      "(please note, all numbers rounded down)\t\t": 3600.0,
+      "(please note, all numbers rounded down)\t\t": 3600,
       "Unnamed: 2": "",
       "Unnamed: 3": "",
       "Unnamed: 4": "",
@@ -4275,7 +4216,7 @@
     },
     {
       "These combos are not necessarily super optimal, but they are easy to get started with and great \"tournament\" combos.": "stHP, Lv 3",
-      "(please note, all numbers rounded down)\t\t": 4800.0,
+      "(please note, all numbers rounded down)\t\t": 4800,
       "Unnamed: 2": "",
       "Unnamed: 3": "",
       "Unnamed: 4": "",
@@ -4293,7 +4234,7 @@
     },
     {
       "These combos are not necessarily super optimal, but they are easy to get started with and great \"tournament\" combos.": "DI Wallsplat Meterless, stHP, Lv 3",
-      "(please note, all numbers rounded down)\t\t": 3800.0,
+      "(please note, all numbers rounded down)\t\t": 3800,
       "Unnamed: 2": "",
       "Unnamed: 3": "",
       "Unnamed: 4": "",
@@ -4302,7 +4243,7 @@
     },
     {
       "These combos are not necessarily super optimal, but they are easy to get started with and great \"tournament\" combos.": "DI Wallsplat Blocked (2 Bars Minimum after DI), DR stHP, L Knuckle, DR stHP, Charged DP, Lv 3",
-      "(please note, all numbers rounded down)\t\t": 4000.0,
+      "(please note, all numbers rounded down)\t\t": 4000,
       "Unnamed: 2": "",
       "Unnamed: 3": "",
       "Unnamed: 4": "",
@@ -4311,7 +4252,7 @@
     },
     {
       "These combos are not necessarily super optimal, but they are easy to get started with and great \"tournament\" combos.": "DI Wallsplat Blocked (Cashout, 3 Bars minimum after DI), DR stHP, L Knuckle, DR stHP, DRC, stHP, [DP], Lv 3",
-      "(please note, all numbers rounded down)\t\t": 4300.0,
+      "(please note, all numbers rounded down)\t\t": 4300,
       "Unnamed: 2": "",
       "Unnamed: 3": "",
       "Unnamed: 4": "",
@@ -4329,7 +4270,7 @@
     },
     {
       "These combos are not necessarily super optimal, but they are easy to get started with and great \"tournament\" combos.": "(1 DG Minimum) Light String, DRC, stLP, stHP, Charged DP, Lv 3 ",
-      "(please note, all numbers rounded down)\t\t": 3700.0,
+      "(please note, all numbers rounded down)\t\t": 3700,
       "Unnamed: 2": "",
       "Unnamed: 3": "",
       "Unnamed: 4": "",
@@ -4338,7 +4279,7 @@
     },
     {
       "These combos are not necessarily super optimal, but they are easy to get started with and great \"tournament\" combos.": "(4 DG Minimum) Light String, DRC, stLP, stHP, DRC, crHP, stHP, Charged DP, Lv 3 ",
-      "(please note, all numbers rounded down)\t\t": 4100.0,
+      "(please note, all numbers rounded down)\t\t": 4100,
       "Unnamed: 2": "",
       "Unnamed: 3": "",
       "Unnamed: 4": "",
@@ -4356,7 +4297,7 @@
     },
     {
       "These combos are not necessarily super optimal, but they are easy to get started with and great \"tournament\" combos.": "(Corner Only Punish Counter) crHP, bHK, M Arrow, H DP",
-      "(please note, all numbers rounded down)\t\t": 3200.0,
+      "(please note, all numbers rounded down)\t\t": 3200,
       "Unnamed: 2": "",
       "Unnamed: 3": "",
       "Unnamed: 4": "",
@@ -4365,7 +4306,7 @@
     },
     {
       "These combos are not necessarily super optimal, but they are easy to get started with and great \"tournament\" combos.": "(Corner Only Punish Counter) crHP, bHK, L Arrow, Lv 1",
-      "(please note, all numbers rounded down)\t\t": 3600.0,
+      "(please note, all numbers rounded down)\t\t": 3600,
       "Unnamed: 2": "",
       "Unnamed: 3": "",
       "Unnamed: 4": "",
@@ -4383,7 +4324,7 @@
     },
     {
       "These combos are not necessarily super optimal, but they are easy to get started with and great \"tournament\" combos.": "(1 DG Minimum) crHP, crMP, DRC, bHK, H Arrow, H DP",
-      "(please note, all numbers rounded down)\t\t": 3000.0,
+      "(please note, all numbers rounded down)\t\t": 3000,
       "Unnamed: 2": "",
       "Unnamed: 3": "",
       "Unnamed: 4": "",
@@ -4392,7 +4333,7 @@
     },
     {
       "These combos are not necessarily super optimal, but they are easy to get started with and great \"tournament\" combos.": "(1 DG Minimum) crHP, crMP, DRC, bHK, H Arrow, Lv 1 (Insane carry combo)",
-      "(please note, all numbers rounded down)\t\t": 3400.0,
+      "(please note, all numbers rounded down)\t\t": 3400,
       "Unnamed: 2": "",
       "Unnamed: 3": "",
       "Unnamed: 4": "",
@@ -4410,7 +4351,7 @@
     },
     {
       "These combos are not necessarily super optimal, but they are easy to get started with and great \"tournament\" combos.": "PC DI, Microwalk stMP, bMP > HK, jMP, Dive Kick",
-      "(please note, all numbers rounded down)\t\t": 2690.0,
+      "(please note, all numbers rounded down)\t\t": 2690,
       "Unnamed: 2": "",
       "Unnamed: 3": "",
       "Unnamed: 4": "",
@@ -4419,7 +4360,7 @@
     },
     {
       "These combos are not necessarily super optimal, but they are easy to get started with and great \"tournament\" combos.": "PC DI, Delayed stHP, [H Arrow] (Side Switches), Heavy DP ",
-      "(please note, all numbers rounded down)\t\t": 2640.0,
+      "(please note, all numbers rounded down)\t\t": 2640,
       "Unnamed: 2": "",
       "Unnamed: 3": "",
       "Unnamed: 4": "",
@@ -4428,7 +4369,7 @@
     },
     {
       "These combos are not necessarily super optimal, but they are easy to get started with and great \"tournament\" combos.": "PC DI, Delayed stHP, [H Arrow]  (Side Switches), SA1",
-      "(please note, all numbers rounded down)\t\t": 3360.0,
+      "(please note, all numbers rounded down)\t\t": 3360,
       "Unnamed: 2": "",
       "Unnamed: 3": "",
       "Unnamed: 4": "",
@@ -4437,7 +4378,7 @@
     },
     {
       "These combos are not necessarily super optimal, but they are easy to get started with and great \"tournament\" combos.": "PC DI, Delayed stHP, [H Arrow]  (Side Switches), SA3",
-      "(please note, all numbers rounded down)\t\t": 4560.0,
+      "(please note, all numbers rounded down)\t\t": 4560,
       "Unnamed: 2": "",
       "Unnamed: 3": "",
       "Unnamed: 4": "",
