@@ -34,7 +34,7 @@ export default function Home() {
       <main className="p-4 md:p-8 bg-white min-h-[calc(100vh-120px)] overflow-x-auto">
         {sheetNames.map((sheetName) => {
           if (activeTab !== sheetName) return null;
-          const sheetData = cammyData[sheetName];
+          const sheetData = cammyData[sheetName as keyof typeof cammyData];
 
           if (sheetData.columns.length === 0 && sheetData.rows.length === 0) {
             return <p key={sheetName}>No hay datos en esta hoja.</p>;
