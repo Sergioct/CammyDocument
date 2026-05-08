@@ -77,7 +77,7 @@ export default function Home() {
           Tactical data, setups, and execution drills.
         </p>
         <p className="relative mt-2 text-sm text-zinc-500 font-bold uppercase tracking-widest">
-          Created by <span className="text-emerald-400">notz</span>
+          Created by <span className="text-emerald-400">Cripi from notz cammy document</span>
         </p>
       </header>
 
@@ -129,16 +129,29 @@ export default function Home() {
                 <table className="w-full text-left border-collapse">
                   <thead>
                     <tr className="bg-zinc-900 border-b border-zinc-800 text-zinc-100">
-                      {sheetData.columns.map((col: string, idx: number) => {
-                        return (
-                          <th
-                            key={idx}
-                            className="p-4 text-xs font-black uppercase tracking-widest whitespace-nowrap"
-                          >
-                            <FormatComboText text={col} />
-                          </th>
-                        );
-                      })}
+                      {(() => {
+                        const headers = [];
+                        for (let colIdx = 0; colIdx < sheetData.columns.length; colIdx++) {
+                          const colValue = sheetData.columns[colIdx];
+                          let colSpan = 1;
+                          if (colValue !== "") {
+                            while (colIdx + 1 < sheetData.columns.length && sheetData.columns[colIdx + 1] === "") {
+                              colSpan++;
+                              colIdx++;
+                            }
+                          }
+                          headers.push(
+                            <th
+                              key={colIdx - colSpan + 1}
+                              colSpan={colSpan}
+                              className="p-4 text-xs font-black uppercase tracking-widest whitespace-nowrap"
+                            >
+                              <FormatComboText text={colValue} />
+                            </th>
+                          );
+                        }
+                        return headers;
+                      })()}
                     </tr>
                   </thead>
                   <tbody className="divide-y divide-zinc-800/50">
@@ -168,41 +181,57 @@ export default function Home() {
                           key={rowIdx}
                           className="hover:bg-zinc-800/50 transition-colors group"
                         >
-                          {row.map((cellValue: any, cellIdx: number) => {
-                            if (typeof cellValue === "string" && cellValue.includes("youtube.com")) {
-                              const parts = cellValue.split(" - ");
-                              const text = parts.length > 1 ? parts[0] : "YouTube Link";
-                              const url = parts.length > 1 ? parts[1] : cellValue;
-                              const href = url.startsWith("http") ? url : `https://${url}`;
+                          {(() => {
+                            const cells = [];
+                            for (let cellIdx = 0; cellIdx < row.length; cellIdx++) {
+                              const cellValue = row[cellIdx];
+                              let colSpan = 1;
                               
-                              return (
-                                <td key={cellIdx} className="p-4 text-sm font-medium">
-                                  <a
-                                    href={href}
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    className="inline-flex items-center gap-2 text-emerald-400 hover:text-emerald-300 transition-colors"
-                                  >
-                                    <svg className="w-5 h-5 text-red-500 flex-shrink-0" fill="currentColor" viewBox="0 0 24 24">
-                                      <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
-                                    </svg>
-                                    <span>{text}</span>
-                                  </a>
-                                </td>
-                              );
-                            }
+                              if (cellValue !== "") {
+                                while (cellIdx + 1 < row.length && row[cellIdx + 1] === "") {
+                                  colSpan++;
+                                  cellIdx++;
+                                }
+                              }
 
-                            return (
-                              <td
-                                key={cellIdx}
-                                className={`p-4 text-sm font-medium ${
-                                  cellValue !== "" ? "text-zinc-300" : "text-zinc-600"
-                                }`}
-                              >
-                                <FormatComboText text={cellValue as string} />
-                              </td>
-                            );
-                          })}
+                              if (typeof cellValue === "string" && cellValue.includes("youtube.com")) {
+                                const parts = cellValue.split(" - ");
+                                const text = parts.length > 1 ? parts[0] : "YouTube Link";
+                                const url = parts.length > 1 ? parts[1] : cellValue;
+                                const href = url.startsWith("http") ? url : `https://${url}`;
+                                
+                                cells.push(
+                                  <td key={cellIdx - colSpan + 1} colSpan={colSpan} className="p-4 text-sm font-medium align-top">
+                                    <a
+                                      href={href}
+                                      target="_blank"
+                                      rel="noopener noreferrer"
+                                      className="inline-flex items-center gap-2 text-emerald-400 hover:text-emerald-300 transition-colors"
+                                    >
+                                      <svg className="w-5 h-5 text-red-500 flex-shrink-0" fill="currentColor" viewBox="0 0 24 24">
+                                        <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+                                      </svg>
+                                      <span>{text}</span>
+                                    </a>
+                                  </td>
+                                );
+                              } else {
+                                const isLongText = typeof cellValue === "string" && cellValue.length > 50;
+                                cells.push(
+                                  <td
+                                    key={cellIdx - colSpan + 1}
+                                    colSpan={colSpan}
+                                    className={`p-4 text-sm font-medium align-top ${
+                                      cellValue !== "" ? "text-zinc-300" : "text-zinc-600"
+                                    } ${isLongText || colSpan > 1 ? "whitespace-pre-wrap min-w-[200px] leading-relaxed" : "whitespace-nowrap"}`}
+                                  >
+                                    <FormatComboText text={cellValue as string} />
+                                  </td>
+                                );
+                              }
+                            }
+                            return cells;
+                          })()}
                         </tr>
                       );
                     })}
